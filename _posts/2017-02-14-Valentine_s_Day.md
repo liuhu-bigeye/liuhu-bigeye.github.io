@@ -16,5 +16,5 @@ excerpt: Valentine's Day
 def reveal_my_heart():
     print "王稚茹我爱你！"
 while True:
-    promise()
+    reveal_my_heart()
 ```
